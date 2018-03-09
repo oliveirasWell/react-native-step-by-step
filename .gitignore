@@ -20,3 +20,4 @@ yarn-error.log*
 .expo/*
 
 package-lock.json
+yarn.lock
